@@ -1,0 +1,14 @@
+D:\git\wpfPractice\ch01_01\ch01_01\bin\Debug\ch01_01.exe.config
+D:\git\wpfPractice\ch01_01\ch01_01\bin\Debug\ch01_01.exe
+D:\git\wpfPractice\ch01_01\ch01_01\bin\Debug\ch01_01.pdb
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\ch01_01.csprojAssemblyReference.cache
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\MainWindow.g.cs
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\App.g.cs
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\ch01_01_MarkupCompile.cache
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\ch01_01_MarkupCompile.lref
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\MainWindow.baml
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\ch01_01.g.resources
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\ch01_01.Properties.Resources.resources
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\ch01_01.csproj.GenerateResource.cache
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\ch01_01.exe
+D:\git\wpfPractice\ch01_01\ch01_01\obj\Debug\ch01_01.pdb
